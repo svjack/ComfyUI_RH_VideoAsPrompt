@@ -1,0 +1,10 @@
+diffusers>=0.30.0
+transformers>=4.44.0
+accelerate>=0.33.0
+imageio>=2.34.0
+torch>=2.1.0
+torchvision
+Pillow>=10.0.0
+numpy
+optimum-quanto>=0.2.0
+
