@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### Step 2: Download Required Models
 
-Download the CogVideoX-5B model and place it in the following structure:
+Download the https://huggingface.co/ByteDance/Video-As-Prompt-CogVideoX-5B model and place it in the following structure:
 
 ```
 ComfyUI/models/Video-As-Prompt/
@@ -43,7 +43,7 @@ ComfyUI/models/Video-As-Prompt/
     └── ...
 ```
 
-You can download from [Video-As-Prompt Dataset](https://huggingface.co/datasets/BianYx/VAP-Data) or use the pretrained CogVideoX-5B model.
+You can download from [Video-As-Prompt Dataset](https://huggingface.co/datasets/BianYx/VAP-Data)
 
 ### Step 3: Restart ComfyUI
 
@@ -95,4 +95,5 @@ If you find this project useful, please consider citing the original Video-As-Pr
 ---
 
 **Developed by [HM-RunningHub](https://github.com/HM-RunningHub)**
+
 
